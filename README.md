@@ -10,4 +10,5 @@
   <b>'-avg-age (gender)'</b>  display average age of people in database (a - all (DEFAULT) | m - male | f - female<br>
   <b>'-pop-cities (amount)'</b>  display most popular cities in database. DEFAULT = 5<br>
   <b>'-max-sec-passwd'</b>  display most secure password in database<br>
-  <b>'-born (from) (to)'</b>  display all people born between two dates [YYYY-MM-DD]
+  <b>'-born (from) (to)'</b>  display all people born between two dates in YYYY-MM-DD format<br>
+  <b>'-h'</b>  display all the options in cmd window
